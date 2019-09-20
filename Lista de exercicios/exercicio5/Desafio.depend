@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1557966567 source:/home/luis/Documentos/code/Desafio/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1557966643 source:/home/luis/Documentos/code/exercicio5/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

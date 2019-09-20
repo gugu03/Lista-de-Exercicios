@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1559137756 source:c:\users\luisg\onedrive\Área de trabalho\code\lista de exercicios\exercicio6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
